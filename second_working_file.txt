@@ -1,6 +1,6 @@
 Introduction to software engineering
 Version Control Practical
-By Jackie Dont
+By Jane Does
 
 Version control systems are a category of software tools 
 that help a software team manage changes to source code over time.
