@@ -8,3 +8,4 @@ Version control software keeps track of every modification to the code in a spec
 If a mistake is made, developers can turn back the clock and compare earlier 
 versions of the code to help fix the mistake while minimizing disruption to all team members.
 Some genome never has transposons. It just develops random features.
+Hiding within those mounds of data is knowledge that could change life 
